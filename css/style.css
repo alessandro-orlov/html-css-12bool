@@ -3,5 +3,10 @@
 }
 
 p {
-  line-height: 160px;
+  padding: 70px 0;
+
+}
+
+.container [class*="col-"]> .container [class*="col-"] p {
+  padding: 60px 0;
 }

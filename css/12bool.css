@@ -1,6 +1,6 @@
 /* BEGIN DEBUG */
-.debug .container {
-  /* border: 1px solid red; */
+/* .debug .container {
+  background-color: red;
 }
 
 .debug .container [class*="col-"] {
@@ -14,7 +14,7 @@
   background-color: #f07f80;
   border: 1px solid #fff;
   height: 160px;
-}
+} */
 /* END DEBUG */
 
 /* BEGIN COMMON RULES */
