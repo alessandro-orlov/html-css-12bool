@@ -1,5 +1,5 @@
 /* BEGIN DEBUG */
-/* .debug .container {
+.debug .container {
   background-color: red;
 }
 
@@ -14,7 +14,7 @@
   background-color: #f07f80;
   border: 1px solid #fff;
   height: 160px;
-} */
+}
 /* END DEBUG */
 
 /* BEGIN COMMON RULES */
