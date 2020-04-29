@@ -13,10 +13,14 @@
   padding: 10px;
 }
 
+.debug .container [class*="col-"]> .container {
+  height: 100%; /*Important*/
+}
+
 .container [class*="col-"]> .container [class*="col-"] {
   background-color: #f07f80;
   border: 1px solid #fff;
-  height: 160px;
+  height: 100%;/*Important*/
 }
 /* END DEBUG */
 
